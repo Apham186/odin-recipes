@@ -13,5 +13,7 @@ Use this command to clone repo to your local machine
 -- git clone https://github.com/Apham186/odin-recipes.git
 you might have to get the PAG code from me.....feel free to email me for the code
 
+To run this code......navigate to recipes/index.html
+Use the Go live extension
 APPRECIATION:
 thanks for stopping by!!!!
