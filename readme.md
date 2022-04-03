@@ -10,10 +10,10 @@ To run this webite you must have the following installed into your local machine
 
 IMPORTANT
 Use this command to clone repo to your local machine
--- git clone https://github.com/Apham186/odin-recipes.git
+-- git clone https://github.com/Apham186/website-recipes.git
 you might have to get the PAG code from me.....feel free to email me for the code
 
-To run this code......navigate to recipes/index.html
+To run this code......navigate to recipes/lasagna.html or the otherName.html
 Use the Go live extension
 APPRECIATION:
 thanks for stopping by!!!!
