@@ -17,3 +17,8 @@ To run this code......navigate to recipes/lasagna.html or the otherName.html
 Use the Go live extension
 APPRECIATION:
 thanks for stopping by!!!!
+
+For my extra practice I can develop multiple recipes:
+
+1. Sushi
+2. Pizza
